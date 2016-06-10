@@ -1,0 +1,28 @@
+name: kunstnacht.koeln
+favicon: null
+layout_spectrum: 0.8808780163526535
+typography_spectrum: 0.4280675973277539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.07056135078892112
+  lightness: 0.25400176551193
+  saturation: 0.5997954271733761
+  rhythmicContrast: 0.328299310291186
+purpose: []

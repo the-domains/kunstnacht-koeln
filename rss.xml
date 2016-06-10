@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kunstnacht.koeln]]></title>
         <description><![CDATA[kunstnacht.koeln]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kunstnacht-koeln/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 17:15:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 17:21:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kunstnacht-koeln/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XIII KUNSTNACHT – 03.12.2016 – WALLRAF-RICHARTZ-MUSEUM]]></title>
             <description><![CDATA[<h1>XIII KUNSTNACHT – 03.12.2016 – WALLRAF-RICHARTZ-MUSEUM</h1>]]></description>
-            <link>undefinedxiii-kunstnacht-03122016-wallraf-richartz-museum/index.html</link>
+            <link>https://thegrid.ai/kunstnacht-koeln/xiii-kunstnacht-03122016-wallraf-richartz-museum/index.html</link>
             <guid isPermaLink="false">e1af3ea4-bc4e-4963-a5ed-cd5a10f6f547</guid>
-            <pubDate>Fri, 10 Jun 2016 17:15:51 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2016 17:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
